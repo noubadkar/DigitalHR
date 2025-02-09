@@ -6,7 +6,6 @@ import 'package:cnattendance/model/month.dart';
 import 'package:cnattendance/repositories/attendancereportrepository.dart';
 import 'package:cnattendance/utils/constant.dart';
 import 'package:flutter/material.dart';
-import 'package:intl/intl.dart';
 import 'package:nepali_utils/nepali_utils.dart';
 
 class AttendanceReportProvider with ChangeNotifier {

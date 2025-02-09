@@ -1,11 +1,9 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:cnattendance/data/source/datastore/preferences.dart';
 import 'package:cnattendance/provider/dashboardprovider.dart';
 import 'package:cnattendance/provider/prefprovider.dart';
 import 'package:cnattendance/utils/constant.dart';
-import 'package:cnattendance/utils/locationstatus.dart';
 import 'package:cnattendance/widget/attendance_bottom_sheet.dart';
 import 'package:cnattendance/widget/customalertdialog.dart';
 import 'package:cnattendance/widget/customnfcdialog.dart';

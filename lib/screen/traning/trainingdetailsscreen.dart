@@ -3,7 +3,6 @@ import 'package:cnattendance/screen/traning/trainingdetailcontroller.dart';
 import 'package:cnattendance/widget/radialDecoration.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:hexcolor/hexcolor.dart';
 import 'package:readmore/readmore.dart';
 
 class TrainingDetailScreen extends StatelessWidget {

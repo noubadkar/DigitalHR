@@ -4,7 +4,6 @@ import 'package:cnattendance/data/source/network/model/eventlistresponse/eventde
 import 'package:cnattendance/data/source/network/model/hollidays/Holidays.dart';
 import 'package:cnattendance/data/source/network/model/teamsheet/Employee.dart' as employees;
 import 'package:cnattendance/data/source/network/model/trainingresponse/trainingresponse.dart';
-import 'package:cnattendance/model/award.dart';
 
 import 'User.dart';
 import 'EmployeeTodayAttendance.dart';

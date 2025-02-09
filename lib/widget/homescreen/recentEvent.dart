@@ -1,7 +1,5 @@
 import 'package:cnattendance/model/event.dart';
 import 'package:cnattendance/provider/dashboardprovider.dart';
-import 'package:cnattendance/screen/awards/awarddetailsscreen.dart';
-import 'package:cnattendance/screen/awards/awardsscreen.dart';
 import 'package:cnattendance/screen/eventscreen/eventdetailscreen.dart';
 import 'package:cnattendance/screen/eventscreen/eventlistscreen.dart';
 import 'package:cnattendance/widget/buttonborder.dart';

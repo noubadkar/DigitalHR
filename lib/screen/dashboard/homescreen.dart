@@ -1,10 +1,6 @@
-import 'dart:developer';
-import 'dart:isolate';
-import 'dart:ui';
 
 import 'package:cnattendance/data/source/datastore/preferences.dart';
 import 'package:cnattendance/data/source/network/model/login/User.dart';
-import 'package:cnattendance/main.dart';
 import 'package:cnattendance/provider/dashboardprovider.dart';
 import 'package:cnattendance/provider/prefprovider.dart';
 import 'package:cnattendance/screen/auth/login_screen.dart';

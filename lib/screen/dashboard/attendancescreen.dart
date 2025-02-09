@@ -7,7 +7,6 @@ import 'package:cnattendance/widget/attendancescreen/attendancetoggle.dart';
 import 'package:cnattendance/widget/attendancescreen/reportlistview.dart';
 import 'package:focus_detector/focus_detector.dart';
 import 'package:provider/provider.dart';
-import 'package:nepali_utils/nepali_utils.dart';
 
 class AttendanceScreen extends StatefulWidget {
   @override

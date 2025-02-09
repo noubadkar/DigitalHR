@@ -315,7 +315,7 @@ class TaskListScreen extends StatelessWidget {
                                                   padding: const EdgeInsets.symmetric(
                                                       horizontal: 8.0, vertical: 5),
                                                   child: Text(
-                                                    item.status!,
+                                                    item.status,
                                                     style: TextStyle(
                                                         color: Colors.white,
                                                         fontSize: 12,

@@ -3,7 +3,6 @@ import 'dart:convert';
 import 'package:cnattendance/data/source/datastore/preferences.dart';
 import 'package:cnattendance/data/source/network/model/employeedetailresponse/Data.dart';
 import 'package:cnattendance/data/source/network/model/employeedetailresponse/employeedetailresponse.dart';
-import 'package:cnattendance/model/award.dart';
 import 'package:cnattendance/utils/constant.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
 import 'package:flutter_translate/flutter_translate.dart';

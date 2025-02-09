@@ -15,7 +15,6 @@ import 'package:http/http.dart' as http;
 import 'package:intl/intl.dart';
 import 'package:nepali_date_picker/nepali_date_picker.dart';
 
-import '../data/source/network/model/hollidays/Holidays.dart';
 
 class LeaveCalendarProvider with ChangeNotifier {
   final Map<String, List<dynamic>> _employeeLeaveList = {};
